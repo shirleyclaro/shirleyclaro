@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Shirley Claro 🎀
 
-- 🔭 Profissional com mais de 6 anos de experiência em Telecomunicações em transição de carreira para Desenvolvedor (a) Front - End.
-
+- 🔭 Entrando no universo Front-end
 - 🌱 Estudando React JS
 - 👩‍🎓 3/8 Ciência da Computação
 - 😄 Pronouns: Ela/Dela  
@@ -16,7 +15,7 @@
   
   <div align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,js,react" />
   </a>
 </div>
   
