@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Shirley Claro 🎀
 
-- 🔭 Entrando no universo Front-end
+- 🔭 Profissional com mais de 6 anos de experiência em Telecomunicações em transição de carreira para Desenvolvedor (a) Front - End.
 - 🌱 Estudando React JS
 - 👩‍🎓 3/8 Ciência da Computação
 - 😄 Pronouns: Ela/Dela  
