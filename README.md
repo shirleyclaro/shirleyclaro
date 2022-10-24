@@ -3,6 +3,7 @@
 - 🔭 Entrando no universo Front-end
 - 🌱 Estudando React JS
 - 👩‍🎓 3/8 Ciência da Computação
+- 📚 Estudante Dev Full Stack com ênfase em JS na SOITech- Edtech
 - 😄 Pronouns: Ela/Dela  
 
 <div>
