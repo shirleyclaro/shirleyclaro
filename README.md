@@ -7,15 +7,16 @@
 
 <div>
   <a href="https://github.com/shirleyclaro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shirleyclaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyclaro&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shirleyclaro&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyclaro&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
-##  
+##
+### Tecnologias que eu uso no meu dia:  
   
   <div align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,js,react" />
+    <img alt="icones tecnologias" src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,js,react" />
   </a>
 </div>
   
